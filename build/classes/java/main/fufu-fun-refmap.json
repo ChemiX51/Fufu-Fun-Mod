@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "net/chemi/mixin/FufuFunMixin": {
+      "init()V": "Lnet/minecraft/class_442;method_25426()V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "net/chemi/mixin/FufuFunMixin": {
+        "init()V": "Lnet/minecraft/class_442;method_25426()V"
+      }
+    }
+  }
+}
